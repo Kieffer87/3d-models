@@ -1,0 +1,13 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "8in Zip Ties": {
+            "Base_Thickness": "3",
+            "Corner_Radius": "2",
+            "External_Depth": "8.625",
+            "External_Height": "2",
+            "External_Width": "3.125",
+            "Wall_Thickness": "3"
+        }
+    }
+}
